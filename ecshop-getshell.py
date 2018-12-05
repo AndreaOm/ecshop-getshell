@@ -10,7 +10,7 @@ import datetime
 import Queue
 import threading
 import sys
-from BeautifulSoup import BeautifulSoup
+from bs4 import BeautifulSoup
 from requests.packages import urllib3
 
 reload(sys) 
